@@ -1,0 +1,12 @@
+mat-list-item{
+  border: 1px solid black;
+}
+
+mat-list{
+  margin: 10px;
+  padding: 20px;
+}
+
+.center{
+ text-align: center!important;
+}
